@@ -1,3 +1,2 @@
-# weather-app with using fetch and  java script
-you can choose the city and find out the weather of this city
+# the current weather for any city in input with using fetch and  java script 
 i used API oenWeatherMap
