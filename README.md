@@ -1,2 +1,4 @@
-# the current weather for any city in input with using fetch and  java script 
-i used API oenWeatherMap
+# weather app for current day for any city and for your geolocation.
+
+Used JS, HTML5, CSS3, REST-API.
+ To find out the weather of the chosen city you shold write the city in input and press "Enter".
